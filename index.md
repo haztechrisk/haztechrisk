@@ -49,3 +49,4 @@ kee@haztechrisk.org
 
 
 
+[more](https://haztechrisk.org/pdf_documents/reliability_risk_hswagering.pdf)
