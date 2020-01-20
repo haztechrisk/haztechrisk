@@ -1,2 +1,2 @@
-# haztechrisk
-markdown, html, and latex documents 
+# Institute for Public Awareness and Understanding of Hazardous Technology Risks
+GitHub Repositiory for *Institute* documents. 
