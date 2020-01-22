@@ -25,4 +25,4 @@ The documents maintained herein appear in *MarkDown* format and are freely downl
 
 
 
-Questions and/or comments regarding the repository and its elements should be directed wither to **Marty Wortman** wortman@haztechrisk.org or **Ernie Kee** kee@haztechrisk.org. 
+Questions and/or comments regarding the repository and its elements should be directed to either **Marty Wortman** wortman@haztechrisk.org or **Ernie Kee** kee@haztechrisk.org. 
