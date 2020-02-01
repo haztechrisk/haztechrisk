@@ -21,7 +21,7 @@ You have arrived at the *Insututue for Public Awareness and Understaning of Haza
   - unsolicited comments
 - [Op-Ed](op-ed/op-ed.md)
 
-The documents maintained herein appear in *MarkDown* format and are freely downloadable.  Documents are archived within the respective subcatagories and are arranged chronologically, much in the fashion of a blog.  We do not serve the repository as ralational database; thus, it not key-searchable.  When exploring the repository, you can return to this landing page by pressing the **back button** in your browser.
+The documents maintained herein appear in *MarkDown* format and are freely downloadable.  Documents are archived within the respective subcatagories and are arranged chronologically, much in the fashion of a blog.  We do not serve the repository as relational database; thus, it not key-searchable.  When exploring the repository, you can return to this landing page by pressing the **back button** in your browser.
 
 
 
