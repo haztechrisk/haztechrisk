@@ -12,7 +12,8 @@ You have arrived at the *Insututue for Public Awareness and Understaning of Haza
   - research reference links
 - [Education](education/education.md)
   - lecture notes
-  - explanatory vingettes 
+  - explanatory vingettes
+    - [Democracy and Roles](explanatory_vignettes/Democracy_Roles.md) 
   - siminar visual links
   - education working papers
   - education reference links

@@ -8,4 +8,5 @@
 - explanatory vingettes 
 - siminar visual links
 - education working papers
-- educatiom reference links
+- education reference links
+
