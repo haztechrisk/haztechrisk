@@ -1,2 +1,2 @@
-# Institute for Public Awareness and Understanding of Hazardous Technology Risks
+# Organization for Public Awareness of Hazardous Technology Risks
 GitHub Repositiory for *Institute* documents. 
