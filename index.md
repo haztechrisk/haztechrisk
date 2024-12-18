@@ -1,10 +1,10 @@
 
 
-## *Institute for Public Awareness and Understanding of Hazardous Technology Risks*: GitHub Repository
+## *Organization for Public Awareness of Hazardous Technology Risks*: GitHub Repository
 
 
 
-You have arrived at the *Intitute for Public Awareness and Understaning of Hazardous Technology Risks* GitHub repository. This public domain directory is organized according to the following categories and subcatagories
+You have arrived at the *Organization for Public Awareness of Hazardous Technology Risks* GitHub repository. This public domain directory is organized according to the following categories and subcatagories
 
 - [Research](research/research.md) 
   - journal manuscript links
